@@ -1,4 +1,4 @@
-# Brian Timp @briantimp
+# Brian Timp
 
 Welcome! I'm Brian, a Freelance Mobile & Cloud Workspace Consultant.
 
